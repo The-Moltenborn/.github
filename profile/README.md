@@ -22,7 +22,7 @@ It operates under a single premise:
 
 This space serves as a library of experiments, tools, and ideas, built entirely in **_Rust_**.
 
-My intention for The Moltenborn is to one day have built every tool for my own custom workflow, like my own advanced terminal based text-editors like vim, and my own advanced version control systems like git.
+My intention for The Moltenborn is to one day have built every tool for my own custom workflow, like my own advanced build automation tools like make, and my own project trackers like wakatime.
 
 #### Currently In Development
 
