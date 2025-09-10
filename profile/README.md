@@ -26,13 +26,15 @@ My intention for The Moltenborn is to one day have built every tool for my own c
 
 #### Currently In Development
 
-- [ ] **Forge**  
-       ‣ _What it does:_ Build automation tool  
-       ‣ _Inspired by:_ `make`
+- [ ] **Tinker**  
+    ‣ _What it does:_ Interactive Unix Shell  
+    ‣ _Inspired by:_ `bash, zsh, fish`
 
 #### Future Plans
 
-- [ ] **Get myself a Wife.**
+- [ ] **Forge**  
+    ‣ _What it does:_ Build automation tool  
+    ‣ _Inspired by:_ `make`
 
 ---
 
