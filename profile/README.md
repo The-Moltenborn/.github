@@ -22,7 +22,7 @@ It operates under a single premise:
 
 This space serves as a library of experiments, tools, and ideas, built entirely in **_Rust_**.
 
-My intention for The Moltenborn is to one day have built every tool for my own custom workflow, like my own advanced build automation tools like make, and my own project trackers like wakatime.
+My intention for The Moltenborn is to one day have built every tool for my own custom workflow, like my own advanced build automation tools like make, and my own unix shell like bash.
 
 #### Currently In Development
 
@@ -40,7 +40,7 @@ My intention for The Moltenborn is to one day have built every tool for my own c
 
 ## Author
 
-The Moltenborn is maintained by <a href="https://sehnsucht-nach-einer-ehefrau.vercel.app" target="_blank">me</a>, a developer interested in low-level systems programming, and cares a bit too much about their dev environment and workflow.
+The Moltenborn is maintained by <a href="https:justin06lee.dev" target="_blank">me</a>, a developer interested in low-level systems programming, and cares a bit too much about their dev environment and workflow.
 
 This is not a company, a studio, or an organization — just a guy with an interest in building things and reinventing the wheel but better(in my completely unbiased opinion).
 
@@ -50,7 +50,7 @@ This is not a company, a studio, or an organization — just a guy with an inter
 
 For discussion, collaboration, or curiosity:
 
-`sehnsucht.nach.einer.ehefrau@gmail.com`
+`hi@justin06lee.dev`
 
 [The Moltenborn Github](https://github.com/The-Moltenborn)
 
